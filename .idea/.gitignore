@@ -1,3 +1,5 @@
+.ipynb*
+
 # Default ignored files
 /workspace.xml
 /misc.xml
