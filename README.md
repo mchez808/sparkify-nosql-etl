@@ -25,4 +25,4 @@ This notebook file calls upon the data files in the directory `event_data`
 A sample of the data columns below shows info about songs, artists, and music listener accounts.
 Apache Cassandra's structure supports analytical queries to drive business decisions about the *Sparkify* streaming music platform.
 
-![image info](./images/image_event_datafile_new.png)
+![image info](./images/image_event_datafile_new.jpg)
